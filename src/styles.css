@@ -1,0 +1,29 @@
+.graph-box {
+
+}
+
+.graph-svg {
+	width: 70%;
+	height: 100%;
+}
+
+.graph-toolbox {
+	width: 30%;
+	height: 100%;
+}
+
+.graph-toolbox.north {
+
+}
+
+.graph-toolbox.south {
+
+}
+
+.graph-toolbox.east {
+
+}
+
+.graph-toolbox.west {
+
+}
